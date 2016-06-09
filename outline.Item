@@ -1,0 +1,9 @@
+class Item
+1) Movable or stationary? (1/0)
+2) Size and Shape
+  if movable -> inventory shape
+  if stationary -> hitbox
+3) Sprite
+4) Identifier
+  Name
+  Discription
