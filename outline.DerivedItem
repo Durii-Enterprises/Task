@@ -1,0 +1,28 @@
+class Weapon public Item
+1) Damage type
+  Magic
+  Physical
+    Blunt
+    Sharp
+2) Wielding
+  One Handed
+  Two Handed
+3) Attack Style
+  collision check
+    Weapon Effect
+    
+class Armor public Item
+1)Status Effects
+  Health
+  Mana
+  Rage
+  Karma
+  Damage table(blunt/sharp/magical)
+2) Equipt Location
+
+Chest/Box
+1) Inventory
+  One Way(can not leave items)
+
+Usable Item
+1) Status Effects
