@@ -1,0 +1,27 @@
+Class Entity
+1) Attributes
+  -Karma
+  -Health
+  -Mana
+  -Rage
+  -Equiptment Load
+    Head
+    Chest
+    Legs
+    Hands
+    Feet
+    Ring
+    Left Hand
+    Right Hand
+    Bag(tetris inventory bag, set in character creation)
+2) Sprite
+  -Base
+    Skin Color (white shorts and t-shirt)
+    Hair Color
+    Gender
+3) Position
+  x-coord
+  y-coord
+  hitbox
+4) Identifier
+  Name
